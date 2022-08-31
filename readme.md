@@ -4,7 +4,7 @@
 Este é um projeto pessoal que fiz para praticar a criação de api's com django usando GenericViews, ModelSerializer.
 Nesse projeto são utilizadas as seguintes stacks: Python, Django (Rest Framework), PostgreSQL, Docker, Git e drf spectacular.
 
-Nessa api a ideia principal é criar uma produtora, onde pode-se criar um músico, albuns e relacioná-los ao músico específico e criar músicas e atrladas a um album.
+Nessa api a ideia principal é criar uma produtora, onde pode-se criar um músico, albuns e relacioná-los ao músico específico e criar músicas e atreladas a um album.
 
 Essa api possui 4 rotas. 
 
